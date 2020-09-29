@@ -1,27 +1,4 @@
-import React from 'react';
-import Logo from '../../assets/logo-kkfly.png';
-
-import './Menu.css';
-import Button from '../Button';
-//import ButtonLink from './components/ButtonLink';
-
-function Menu() {
-    return(
-        <nav className="Menu">
-            <a href="/">
-                <img className="Logo" src={Logo} alt="KKfly Logo"/>
-            </a> 
-
-            <Button as="a" className="ButtonLink" href="/">
-                Novo vídeo
-            </Button>          
-        </nav>
-    );
-}
-
-export default Menu;
-
-/* ssv 28-09 import { Link } from 'react-router-dom';
+import { Link } from 'react-router-dom';
 import Logo from '../../assets/logo-kkfly.png';
 import './Menu.css';
 import Button from '../Button';
@@ -41,4 +18,4 @@ function Menu() {
     );
 }
 
-export default Menu;*/
+export default Menu;
