@@ -1,183 +1,183 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
-      "link": "https://www.alura.com.br/formacao-front-end",
+      "titulo": "KK New release",
+      "link": "https://www.linkedin.com/in/s%C3%A9rgio-schwartz-varej%C3%A3o-2a768528/",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Krystian Kymerson surf video",
+        "url": "https://www.youtube.com/watch?v=UbLhuYWZW3A&t=25s"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "Smith vs. Buchan vs. Kymerson ",
+          "url": "https://www.youtube.com/watch?v=3r3btdTT7sk"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "VAMO ALI EP 01 • TUBOS À VONTADE EM SAQUAREMA",
+          "url": "https://www.youtube.com/watch?v=UbLhuYWZW3A&t=25s"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "VAMO ALI EP 02 • DIAS DIVERTIDOS EM SAQUAREMA",
+          "url": "https://www.youtube.com/watch?v=omFIGENAPUQ&t=352s"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "VAMO ALI EP 03 • ALTAS ONDAS EM ITACOATIARA",
+          "url": "https://www.youtube.com/watch?v=vmP_F_yso2U"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "VAMO ALI EP 04 • MUITO TUBO E SESSION NOTURNA",
+          "url": "https://www.youtube.com/watch?v=NVen1tuhgiI"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "A Vila Mágica | Regência, Brasil",
+          "url": "https://www.youtube.com/watch?v=Cz8CX5a02xg"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "Irmãos Kymerson #7 - Swell no quintal",
+          "url": "https://www.youtube.com/watch?v=bR1CTg6b5uQ"
         },
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Irmãos Kymerson #9 - GOLDEN HOUR",
+          "url": "https://www.youtube.com/watch?v=ndoKjRlYA-g"
         }        
       ]
     },
     {
-      "titulo": "Back End",
+      "titulo": "HEATS",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "text": "KKFly, heats against the best surfer's of the world",
+        "url": "https://www.youtube.com/watch?v=D-UeN1hIpHo"
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "John John Florence vs. Krystian Kymerson - Round of 32, Heat 9 - Oi Rio Pro 2019",
+          "url": "https://www.youtube.com/watch?v=D-UeN1hIpHo&t=81s"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "Smith vs. Buchan vs. Kymerson - Elimination Round, Heat 2 - Oi Rio Pro 2019",
+          "url": "https://www.youtube.com/watch?v=3r3btdTT7sk"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "Vans US Open of Surfing - Men's, Men's Qualifying Series - Round 1 heat 4",
+          "url": "https://www.youtube.com/watch?v=t_Y5xyeNYhc"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "Turkish Airlines Best Air: Krystian Kymerson Takes it to the Sky",
+          "url": "https://www.youtube.com/watch?v=_vFLPQzpObY"
         }, 
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "2016 Hawaiian Pro: Round Two, Heat 4",
+          "url": "https://www.youtube.com/watch?v=V7c131a6biw"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
+      "titulo": "KK On Tour",
       "cor": "#9cd33b",
       "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "text": "Sharing the passion of surf",
+        "url": "https://www.youtube.com/watch?v=yDsaKCAgQ70"
       },
       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "KK On Tour Contest 2020",
+          "url": "https://www.youtube.com/watch?v=yDsaKCAgQ70"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "REGÊNCIA HISTÓÓÓRICO!!!",
+          "url": "https://www.youtube.com/watch?v=mGmAPGqKJZI"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "Surfe capixaba: Krystian Kymerson e Rafael Teixeira",
+          "url": "https://www.youtube.com/watch?v=QZ7X4G9P3Ow"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "KRYSTIAN KYMERSON • UM PEDAÇO DE UM SONHO",
+          "url": "https://www.youtube.com/watch?v=sy4rcFj5VOM"
         }
       ]
     },
     {
-      "titulo": "Filmes",
+      "titulo": "Surf Film",
       "cor": "orange",
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "Stab In The Dark All Stars, ft. Dane Reynolds, Mick Fanning, and Jordy Smith",
+          "url": "https://www.youtube.com/watch?v=htRc7UbBSus"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "Stab in the Dark starring Mick Fanning. The search for the world's best surfboard",
+          "url": "https://www.youtube.com/watch?v=1-mORwXRM4A"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "Stab In The Dark: Jordy Smith And The World's Best Surfboards (2017)",
+          "url": "https://www.youtube.com/watch?v=yvIGiTwFnn8&t=1202s"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "Stab In The Dark: Dane Reynolds And The World's Best Surfboard",
+          "url": "https://www.youtube.com/watch?v=dvsDT4nVy-Y"
         }
       ]
     },
     {
-      "titulo": "Games",
+      "titulo": "WT Surfing",
       "cor": "red",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
+        "text": "WT surfer's around the world videos",
+        "url": "https://www.youtube.com/watch?v=oSR8irQRdWs&t=194s"
       },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "The Best of Gabriel Medina… ARE YOU NOT ENTERTAINED!! - WSL Highlights",
+          "url": "https://www.youtube.com/watch?v=_a8MFyKSc1s"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "Best Of Filipe Toledo",
+          "url": "https://www.youtube.com/watch?v=NQTdph41Ji8"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "THE VERY BEST OF ITALO FERREIRA - WSL Highlights",
+          "url": "https://www.youtube.com/watch?v=DtgwxY32-Cg"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+          "titulo": "Adriano de Souza, o Mineirinho no Brazilian Storm",
+          "url": "https://www.youtube.com/watch?v=jw50h-4ozV0"
         },
         {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "Video padrão",
+          "url": "https://www.youtube.com/watch?v=BWGaYeqBF-g"
         }
       ]
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
+      "titulo": "Preparação Física",
       "cor": "#6b5be2",
       "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
+        "text": "SCT - Functional Training",
+        "url": "https://www.youtube.com/watch?v=SDFllFC-0rw"
       },
       "videos": [
         {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+          "titulo": "PROGRAMA VIBES - Ep. 3 Temp. 3 (WORKING AND TRUSTING KRYSTIAN KYMERSON)",
+          "url": "https://www.youtube.com/watch?v=SDFllFC-0rw"
         },
         {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+          "titulo": "",
+          "url": ""
         },
         {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "",
+          "url": ""
         },
         {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+          "titulo": "",
+          "url": ""
         },
         {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          "titulo": "",
+          "url": ""
         }
       ]
     }
